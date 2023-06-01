@@ -125,9 +125,9 @@ alias zshconfig="nano ~/.zshrc"
 
 alias ncpc="cd /home/simon/ncpc"
 
-alias randomAnimal="python3 '/mnt/c/Users/Simon/OneDrive - UiT Office 365/Documents/Emner 1 semester/DTE-2510 Grunnleggende programmering/linux_stuff/animals.py' < '/mnt/c/Users/Simon/OneDrive - UiT Office 365/Documents/Emner 1 semester/DTE-2510 Grunnleggende programmering/linux_stuff/animals.txt'"
+alias randomAnimal="python3 '/github/config/animals.py' < '/github/config//animals.txt'"
 
-alias randomEmoji="python3 '/mnt/c/Users/Simon/OneDrive - UiT Office 365/Documents/Emner 1 semester/DTE-2510 Grunnleggende programmering/linux_stuff/emoji.py' < '/mnt/c/Users/Simon/OneDrive - UiT Office 365/Documents/Emner 1 semester/DTE-2510 Grunnleggende programmering/linux_stuff/emoji.txt'"
+alias randomEmoji="python3 '/github/config/emoji.py' < '/github/config/emoji.txt'"
 
 
 randomAnimal
