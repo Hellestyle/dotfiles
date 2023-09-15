@@ -1,0 +1,6 @@
+configuration {
+ modi: "window,drun,run,combi";
+ combi-modi: "window,drun,run";
+ }
+
+@theme "/usr/share/rofi/themes/android_notification.rasi"
